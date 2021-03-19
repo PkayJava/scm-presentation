@@ -14,16 +14,13 @@ public class BootApplication {
         return a - b;
     }
 
+    public static int minus1(int a, int b) {
+        return a - b;
+    }
+
     public static int multiple(int a, int b) {
         return a * b;
     }
-
-
-
-
-
-
-
 
     public static int multiple2(int a, int b) {
         return a * b;
