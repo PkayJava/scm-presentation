@@ -26,4 +26,12 @@ public class BootApplication {
         return a * b;
     }
 
+    public static int multiple8(int a, int b) {
+        return a * b;
+    }
+
+    public static int multiplew(int a, int b) {
+        return a * b;
+    }
+
 }
