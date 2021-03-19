@@ -14,4 +14,8 @@ public class BootApplication {
         return a - b;
     }
 
+    public static int multiple(int a, int b) {
+        return a * b;
+    }
+
 }
