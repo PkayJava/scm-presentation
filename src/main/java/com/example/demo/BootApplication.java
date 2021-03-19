@@ -18,4 +18,8 @@ public class BootApplication {
         return a * b;
     }
 
+    public static int divided(int a, int b) {
+        return a / b;
+    }
+
 }
