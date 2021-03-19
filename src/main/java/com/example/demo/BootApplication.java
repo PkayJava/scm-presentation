@@ -26,4 +26,9 @@ public class BootApplication {
         return a / b;
     }
 
+
+    public static int ppppppppppppp(int a, int b) {
+        return a / b;
+    }
+
 }
